@@ -14,7 +14,6 @@
 I am a passionate **Researcher, Software Engineer, and Software Architect** with 5+ years of experience designing, developing, and implementing **AI**, **API**, **Cloud**, and **Web applications**. Currently working as an **AI Engineering Manager at HSsoft**, I specialize in integrating AI technologies, optimizing cloud infrastructures, and leading backend system architecture for scalable, efficient solutions.
 
 - 🔭 Working on **AI, Computer Vision, NLP, System Architecture**, and other cutting-edge technologies.
-- 🌱 Pursuing a Master's in **Computer Convergence System** at **Kwangwoon University**.
 - 📰 Publishing a **newspaper** on LinkedIn titled *"[Software Engineer's Journey](https://www.linkedin.com/newsletters/software-engineer-s-journey-7016641345515642882/)"* focused on the experiences of software engineers.
 - 🌍 Based in **Seoul**, South Korea.
 

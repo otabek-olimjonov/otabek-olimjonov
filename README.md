@@ -1,5 +1,5 @@
 # <div align="center">👨‍💻 OTABEK OLIMJONOV</div>
-<div align="center"><strong>Researcher | Software Engineer | Software Architect | AI Enthusiast</strong></div>
+<div align="center"><strong>Researcher | Software Engineer | Software Architect | Freelancer</strong></div>
 
 <div align="center">
   <a href="https://github.com/otabek-olimjonov/"><img src="https://komarev.com/ghpvc/?username=otabek-olimjonov&label=Profile%20views&color=0e75b6&style=flat" alt="otabek-olimjonov"></a>
@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-Results-driven **Software Engineer** with 6+ years of experience designing, developing, and implementing **AI**, **API**, **Cloud**, and **Web applications**. Currently leading as an **AI Engineering Manager at HSsoft**, I specialize in:
+Results-driven **Software Engineer** with 6+ years of experience designing, developing, and implementing **AI**, **API**, **Cloud**, and **Web applications**. Currently working as a **Full-Time Freelancer**, I specialize in:
 
 - 🧠 Advanced **NLP**, **GenAI** and **Computer Vision** applications
 - ☁️ Optimizing **cloud infrastructure** for scalability and security
@@ -39,11 +39,18 @@ Results-driven **Software Engineer** with 6+ years of experience designing, deve
 
 ## 🌟 Career Journey
 
+### Full-Time Freelancer | Seoul, South Korea
+**Software Engineer & AI Specialist** | *Feb 2025 - Present*
+- Delivering high-quality AI and software solutions to clients worldwide
+- Specializing in machine learning, generative AI, and computer vision projects
+- Building scalable web applications and APIs for diverse industry needs
+- Maintaining Top-Rated status on Upwork with 100% client satisfaction
+
 ### HSsoft Co., Ltd | Incheon, South Korea
-**AI Engineering Manager** | *Jul 2024 - Present*
-- Leading a team of AI engineers developing cutting-edge NLP and computer vision applications
-- Spearheading strategic ML model optimization initiatives
-- Implementing MLOps practices for streamlined deployment workflows
+**AI Engineering Manager** | *Jul 2024 - Feb 2025*
+- Led a team of AI engineers developing cutting-edge NLP and computer vision applications
+- Spearheaded strategic ML model optimization initiatives
+- Implemented MLOps practices for streamlined deployment workflows
 
 ### BEN Inc. | Seoul, South Korea
 **Software Engineer & Software Architect** | *Jul 2023 - Jul 2024*
@@ -193,7 +200,7 @@ I publish a newsletter on LinkedIn: [**Software Engineer's Journey**](https://ww
 
 ## 📫 Let's Connect!
 
-I'm always open to interesting conversations and opportunities. Feel free to reach out!
+I'm available for freelance projects and always open to interesting conversations and opportunities. Feel free to reach out!
 
 - 📧 **Email**: [otabek.soft@gmail.com](mailto:otabek.soft@gmail.com)
 - 💼 **LinkedIn**: [Otabek Olimjonov](https://www.linkedin.com/in/mr-olimjonov/)
